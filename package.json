@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@findora-network/findora-sdk.js": "^1.0.0",
+    "axios": "^0.24.0",
+    "bignumber.js": "^9.0.1"
+  }
+}
